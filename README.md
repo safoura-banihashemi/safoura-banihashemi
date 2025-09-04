@@ -3,9 +3,9 @@
 🎓 I'm a Master's student in AI at the university of Bologna, with a passion for making sense of data and building intelligent systems.  
 💡 My interests span across Data Analysis, Computer Vision, and Large Language Models (LLMs), especially where they intersect.
 
-<img src="original-2ab2e13fa7c799a0098e717d4ece5281.gif" width="500" alt="Demo GIF"/>
+<img src="4b06e393fd0647c265b1282b0f006486.gif" width="200" alt="Demo GIF" align="center"/>
 
-<div align="center">
+<div align="right">
 <a href="mailto:safoura.banihashemi@studio.unibo.it" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
