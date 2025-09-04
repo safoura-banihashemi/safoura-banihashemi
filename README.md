@@ -18,6 +18,6 @@
 </a> -->
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="wiki.gif" width="200" alt="Demo GIF"/>
-</p>
+</p> -->
