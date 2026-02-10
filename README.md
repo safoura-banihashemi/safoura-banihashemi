@@ -2,8 +2,13 @@
 
 I am currently exploring machine intelligence to push the boundaries of what's possible. I view LLMs and autonomous agents not just as tools, but as evolving intelligent entities.
 
+<div>
 - AI Engineer in the making 
 - M.Sc. Artificial Intelligence @ University of Bologna
+<p align="center">
+  <img src="wiki.gif" width="150" alt="Demo GIF"/>
+</p>
+</div>
 
 <div align="center">
 <a href="mailto:safoura.banihashemi@studio.unibo.it" target="_blank">
@@ -25,7 +30,3 @@ I am currently exploring machine intelligence to push the boundaries of what's p
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
 </a> -->
 </div>
-
-<p align="center">
-  <img src="wiki.gif" width="200" alt="Demo GIF"/>
-</p>
