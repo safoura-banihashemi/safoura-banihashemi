@@ -8,12 +8,12 @@ I'm currently focused on Agentic Systems and NLP, exploring approaches for compl
   <img src="wiki.gif" width="150" alt="Demo GIF"/>
 </p>
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="mailto:safoura.banihashemi@studio.unibo.it" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
+</a> -->
+<!-- &nbsp;
 
 <a href="https://www.linkedin.com/in/safoura-banihashemi/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -33,6 +33,6 @@ I'm currently focused on Agentic Systems and NLP, exploring approaches for compl
 <a href="https://huggingface.co/yourhuggingface" target="_blank">
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
 </a>
--->
 
-</div>
+
+</div>-->
