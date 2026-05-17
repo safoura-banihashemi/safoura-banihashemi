@@ -1,8 +1,6 @@
-# Hi everyone, I'm Safoura! 🤗
+# Hi, I'm Safoura! ☺️
 
-I'm currently focused on Agentic Systems and NLP, exploring approaches for complex reasoning, structured decision-making, and automation workflows and particularly interested in building autonomous AI systems that can collaborate effectively with humans across digital environments.
-
--  M.Sc. Artificial Intelligence @ University of Bologna
+AI MSc @ Bologna | Building Agentic AI for Legal Domains | Multi-Agent Systems • Legal NLP • Exploring RL
 
 <p align="center">
   <img src="wiki.gif" width="150" alt="Demo GIF"/>
