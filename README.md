@@ -1,6 +1,6 @@
 # Hi, I'm Safoura! ☺️
 
-AI MSc @ Bologna | Building Agentic AI for Legal Domains | Multi-Agent Systems • Legal NLP • Exploring RL
+AI MSc @Unibo | Building Agentic AI for Legal Domains | Multi-Agent Systems • Legal NLP • Exploring RL
 
 <p align="center">
   <img src="wiki.gif" width="150" alt="Demo GIF"/>
